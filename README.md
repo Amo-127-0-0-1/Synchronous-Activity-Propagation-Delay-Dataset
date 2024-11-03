@@ -1,5 +1,6 @@
 # Synchronous Activity Propagation Delay (Dataset)
 
+
 This repository contains extracellularly recorded spike times from modular neuronal networks, obtained using multi-electrode array (MEA) chips. The dataset includes network bursting activity metrics and spiking activity correlations, providing insights into synchronous signal propagation in modular neural cultures.
 
 ## Data Source
