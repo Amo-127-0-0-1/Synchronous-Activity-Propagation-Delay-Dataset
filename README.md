@@ -1,17 +1,19 @@
-# Synchronous Activity Propagation Delay Dataset
+# Synchronous Activity Propagation Delay (Dataset)
 
 This repository contains extracellularly recorded spike times from modular neuronal networks, obtained using multi-electrode array (MEA) chips. The dataset includes network bursting activity metrics and spiking activity correlations, providing insights into synchronous signal propagation in modular neural cultures.
 
 ## Data Source
 
-The data was collected with multichannel systems and MEA chips, integrated into microscale neuronal culture devices. These devices utilize microchannels to connect different compartments, allowing for controlled inter-compartmental neuron activity analysis. Details of the experimental setup can be found in the associated publications. This dataset is part of my PhD research work, and it complements the findings presented in my dissertation as well as related publications.
+The data was collected with multichannel systems and MEA chips, integrated into microscale neuronal culture devices. These devices utilize microchannels to connect different compartments, allowing for controlled inter-compartmental neuron activity analysis. Details of the experimental setup can be found in the associated publications. The design of these devices has been made available in companion [dataset](https://github.com/Amo-127-0-0-1/Synchronous-Activity-Propagation-Delay-STL-Models).
+
+
 
 ## Data Structure and Types
 
 The data is organized as follows:
-- **Spike Times**: Time stamps of neuronal spikes recorded across multiple electrodes.
-- **Bursting Metrics**: Measures of network burst frequency, duration, and other key parameters.
-- **Correlation Data**: Pairwise correlation matrices showing the synchrony levels between electrode channels.
+- **Spike Times**: ..
+- **Bursting Metrics**: ..
+- **Correlation Data**: ..
 
 Refer to each file’s README or metadata documentation for specifics on column descriptions and data encoding.
 
@@ -41,9 +43,18 @@ Once 7zip is installed, execute the following:
 bash decompress_dataset.sh
 ```
 
-## License
+## License 
 
-This dataset and accompanying scripts are licensed under MIT License.
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
 ## Citation
@@ -59,7 +70,7 @@ If you use this dataset in your research, please cite it as follows:
   url = {https://github.com/Amo-127-0-0-1}
 }
 ```	
-## Author
+## Authors
 
 Ali Hosseini - [GitHub](https://github.com/Amo-127-0-0-1)
 Contact: amo.iso@tuta.io

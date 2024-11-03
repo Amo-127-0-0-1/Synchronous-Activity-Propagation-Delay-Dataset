@@ -6,7 +6,6 @@
 # macOS (Homebrew): brew install p7zip
 
 
-
 # Directory where the assets are located (default to the current directory)
 ASSETS_DIR="${1:-.}"
 
