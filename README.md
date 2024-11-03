@@ -12,11 +12,12 @@ The data was collected with multichannel systems and MEA chips, integrated into 
 ## Data Structure and Types
 
 The data is organized as follows:
-- **Spike Times**: ..
-- **Bursting Metrics**: ..
-- **Correlation Data**: ..
 
-Refer to each file’s README or metadata documentation for specifics on column descriptions and data encoding.
+- **Spike Times** recorded from the *Source*, *Target*, or *microchannels area* of the modular culture devices. The `.txt` files have two columns, first one being the spiketime and the second the elctrode number that the spike has been detected at.
+
+- **Stacked datasets** are in `csv` format. They contains recordings' information, analysis parameters, correlation metrics and bursting statistics.
+
+Refer to associated publication for specifics on column descriptions and data encoding.
 
 ## Usage
 
@@ -58,19 +59,6 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-## Citation
-
-If you use this dataset in your research, please cite it as follows:
-
-```css
-
-@dataset{Hosseini_2024_SynchronousPropagationDelay,
-  author = {Ali Hosseini},
-  year = {2024},
-  title = {Synchronous Activity Propagation Delay Dataset},
-  url = {https://github.com/Amo-127-0-0-1}
-}
-```	
 ## Authors
 
 Ali Hosseini - [GitHub](https://github.com/Amo-127-0-0-1)
