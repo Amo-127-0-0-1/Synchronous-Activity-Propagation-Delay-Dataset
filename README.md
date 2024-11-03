@@ -5,7 +5,7 @@ This repository contains extracellularly recorded spike times from modular neuro
 
 ## Data Source
 
-The data was collected with multichannel systems and MEA chips, integrated into microscale neuronal culture devices. These devices utilize microchannels to connect different compartments, allowing for controlled inter-compartmental neuron activity analysis. Details of the experimental setup can be found in the associated publications. The design of these devices has been made available in companion [dataset](https://github.com/Amo-127-0-0-1/Synchronous-Activity-Propagation-Delay-STL-Models).
+The data was collected with multichannel systems and MEA chips, integrated into microscale neuronal culture devices. These devices utilize microchannels to connect different compartments, allowing for controlled inter-compartmental neuron activity analysis. Details of the experimental setup can be found in the associated publications. The design of these devices has been made available in [companion dataset](https://github.com/Amo-127-0-0-1/Synchronous-Activity-Propagation-Delay-STL-Models).
 
 
 
